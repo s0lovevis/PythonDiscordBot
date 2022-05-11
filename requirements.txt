@@ -1,0 +1,4 @@
+discord.py==1.7.0
+distest>=0.6.2
+pytest>=6.2.5
+yandex-music==1.0.0
